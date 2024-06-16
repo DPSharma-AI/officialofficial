@@ -1,1 +1,2 @@
-print("First PYUthon Programme")
+def substraction(a,b):
+    return a-b
